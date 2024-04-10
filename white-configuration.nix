@@ -136,6 +136,10 @@ services.interception-tools =
     taskwarrior
     lf
     lunarvim
+    tree-sitter
+    unzip
+    nodejs
+    fd
     neovide
     nerdfonts
     starship
@@ -146,6 +150,7 @@ services.interception-tools =
     du-dust
     gitui
     gh
+    gcc
  #  vim # Do not forget to add an editor to edit configuration.nix! The Nano editor is also installed by default.
   #  wget
   ];
